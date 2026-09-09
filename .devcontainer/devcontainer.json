@@ -9,4 +9,5 @@
     }
   },
   "postCreateCommand": "dotnet restore HelloCSharp/HelloCSharp.csproj"
+}
 

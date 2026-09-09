@@ -18,6 +18,8 @@ bool check = Lab1.CheckSum(testCase1, target);
 Console.Write("One can");
 if (!check) Console.Write("not");
 Console.WriteLine($" select three elements from {Lab1.ToString(testCase1)} that sum to {target}.");
+Console.WriteLine($" STILL WORK TO DO!");
+
 //end Testing code
 
 public class Lab1  //do not change this line

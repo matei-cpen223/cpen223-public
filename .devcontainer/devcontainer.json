@@ -8,6 +8,6 @@
       ]
     }
   },
-  "postCreateCommand": "dotnet restore HelloCSharp/HelloCSharp.csproj"
+  "postCreateCommand": "dotnet restore Lab1/Lab1.csproj"
 }
 
